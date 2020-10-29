@@ -1,6 +1,6 @@
 # sparqljs-legacy-type
 
-This module contains TypeScript types definitions for the [`SPARQL.js`](https://github.com/RubenVerborgh/SPARQL.js) package in version *2.0.x*.
+This module contains TypeScript types definition for the [`SPARQL.js`](https://github.com/RubenVerborgh/SPARQL.js) package in version *2.0.x*.
 
 ## Installation
 
