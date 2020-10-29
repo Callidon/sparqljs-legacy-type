@@ -2,10 +2,8 @@
   "name": "sparqljs-legacy-type",
   "version": "1.0.0",
   "description": "TypeScript types defintion for sparql.js v2.0.3",
-  "main": "index.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "./index.d.ts",
+  "types": "./index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Callidon/sparqljs-legacy-type.git"

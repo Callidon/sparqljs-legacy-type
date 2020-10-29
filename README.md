@@ -1,2 +1,15 @@
 # sparqljs-legacy-type
-TypeScript types defintion for sparql.js v2.0.x
+
+This module contains TypeScript types definitions for the [`SPARQL.js`](https://github.com/RubenVerborgh/SPARQL.js) package in version *2.0.x*.
+
+## Installation
+
+using npm
+```
+npm install --save-dev sparqljs-legacy-type
+```
+
+using yarn
+```
+yarn add -D sparqljs-legacy-type
+```
