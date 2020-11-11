@@ -4,6 +4,10 @@
   "description": "TypeScript types definition for SPARQL.js v2.0.x",
   "main": "./index.d.ts",
   "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo 1",
+    "build": "echo 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Callidon/sparqljs-legacy-type.git"
