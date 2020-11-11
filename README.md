@@ -1,4 +1,5 @@
 # sparqljs-legacy-type
+[![Build Status](https://travis-ci.com/Callidon/sparqljs-legacy-type.svg?branch=main)](https://travis-ci.com/Callidon/sparqljs-legacy-type)
 
 This module contains TypeScript types definition for the [`SPARQL.js`](https://github.com/RubenVerborgh/SPARQL.js) package in version *2.0.x*.
 
