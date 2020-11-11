@@ -2,8 +2,8 @@
   "name": "sparqljs-legacy-type",
   "version": "1.0.0",
   "description": "TypeScript types definition for SPARQL.js v2.0.x",
-  "main": "./index.d.ts",
-  "types": "./index.d.ts",
+  "main": "./sparqljs/index.d.ts",
+  "types": "./sparqljs/index.d.ts",
   "scripts": {
     "test": "echo 1",
     "build": "echo 1"

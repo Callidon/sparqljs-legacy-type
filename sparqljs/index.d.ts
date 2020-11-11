@@ -199,7 +199,7 @@ declare module 'sparqljs' {
       /**
        * The type of the query
        */
-      queryType: 'query' | 'update';
+      queryType: 'SELECT' | 'ASK' | 'CONSTRUCT' | 'DESCRIBE';
       /**
        * If the query use a DISTINCT modifier
        * @see https://www.w3.org/TR/sparql11-query/#modDuplicates
